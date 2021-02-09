@@ -98,6 +98,11 @@ function postHtml() {
         <link rel="stylesheet" href="./style.css">
     </head>
     <body>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand">Team Members</a>
+        </div>
+    </nav>
         <div class="container">
             <div class="row">`;
 
